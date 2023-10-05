@@ -296,6 +296,7 @@ header .container .title {
     }
     .projects {
         height: 150vh;
+        margin-bottom: 2rem;
     }
     .my--projects {
         grid-template-columns: repeat(1, 1fr);
